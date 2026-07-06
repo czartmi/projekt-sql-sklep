@@ -1,6 +1,6 @@
 # 🛒 Analiza sprzedaży sklepu internetowego (SQL / PostgreSQL)
 
-Projekt zaliczeniowy zrealizowany w ramach przedmiotu **Bazy danych** na studiach.
+Własny projekt do portfolio, zbudowany w celu nauki i praktycznego pokazania SQL.
 Modeluje działanie sklepu internetowego: klientów, produkty, kategorie i zamówienia.
 Zawiera zaprojektowany od zera schemat relacyjny, dane testowe oraz zestaw
 **15 zapytań analitycznych** odpowiadających na realne pytania biznesowe
@@ -11,7 +11,7 @@ Zawiera zaprojektowany od zera schemat relacyjny, dane testowe oraz zestaw
 > podzapytaniami, widokami i funkcjami okna.
 
 > ℹ️ **Dane** wykorzystane w projekcie są danymi syntetycznymi (wygenerowanymi
-> na potrzeby zaliczenia), aby zaprezentować działanie zapytań.
+> na potrzeby projektu), aby zaprezentować działanie zapytań.
 
 ---
 
